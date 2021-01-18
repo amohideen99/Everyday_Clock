@@ -1,0 +1,17 @@
+* 16x2 Character Display
+	https://www.adafruit.com/product/181 
+* SAMD21G18 running Arduino
+	https://www.digikey.com/en/products/detail/microchip-technology/ATSAMD21G18A-AUT/4878867 
+* 3.3V LDO 1 Amp
+	https://www.ti.com/lit/ds/symlink/tps746.pdf?ts=1610869711399&ref_url=https%253A%252F%252Fwww.ti.com%252Fpower-management%252Flinear-regulators-ldo%252Fproducts.html 
+* BME280 for Temp, Pressure, Humidity
+      	https://www.digikey.com/en/products/detail/bosch-sensortec/BME280/6136306 
+* USB Hub for USB Passthrough
+       	https://www.microchip.com/wwwproducts/en/USB2422 
+* Switch for Disabling Display
+	https://www.amazon.com/gp/product/B00O9YQQJM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 
+* USB 2.0 Type A Port x2 for Powering and Passthrough
+	https://www.digikey.com/en/products/detail/cvilux-usa/CU01SAH1S00-NH/13177482 
+
+
+
